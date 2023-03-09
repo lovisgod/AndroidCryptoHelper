@@ -1,0 +1,279 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/afc013027f23672ee76101e2512ad959/transformed/activity-compose-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/8c44a910c58cd7b7efa9af7dccd8b0c6/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/b581ac9936c86f03acef6f8af32b6872/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/648b8bf6f0d4e519314514e2a16bf3be/transformed/material-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/062c1bb26cfcd7afd9cfa5304ee33838/transformed/material-ripple-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/6e121b23761d07551dbf0b2acaa899d9/transformed/foundation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/2ba512c85bfd70ba3e89c3536caf7971/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/21894288102c1caf4f84b0defb029617/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/50b43acfba4cdc16cc9453514abce6b7/transformed/material-icons-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/d2bcfa6f584ecfd9c0a5a3df385d318f/transformed/foundation-layout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/09f79a58d3aeab705f0548c8c601004d/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/7222cc980f935186cfbde08c56d2f971/transformed/ui-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/875c618bf040db619248809e954f2fb8/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/6aa533b4cc69c49d03e8ff75c4447ddb/transformed/ui-text-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/35f7564bef5f4a69a98f1a9e3751ef5a/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/5a258492fac86e8eb875a0f83413e00e/transformed/ui-graphics-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/be8547497a45360e00a4f2b68249d764/transformed/ui-unit-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/df5b73a653be7d440fcccd89677d57c4/transformed/ui-geometry-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/c7d0cc08d3242720d0a0b6d6d779ad89/transformed/runtime-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/6e0a4c7fe06933bb5be291126d474f0c/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/f708c0f15b291ac9371e7903ef75e7ea/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/673029a52522eb70198de5382daed27c/transformed/datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/b39130743f990efe1987e60dc5fc5b32/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/a2bfaaba0d6842503cdc4f4b81fe7d80/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a3b9807edf8784a238cb6dd4f0ee607c/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/044e4c11b52be92a3422d40b7bb9a577/transformed/ui-util-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/4955cf2054715dee9837b76eb7b5b8ce/transformed/activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/8d7ec13b914c725d44ace283d26760be/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/06447cc6b5671e74b2d6857099112e45/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/d9d0659efd545b1d4dc680898c7975cd/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/95e50abe5a4f23d72b40c16e5bb7c7cf/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/aaa58be79e21db5a99dfc8f59a114f0e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/dcef8321ff8d737e3dbca5b2b79ab724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/ba91acdcac9ab9e824ef351ecb126511/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ayooluwa/.gradle/caches/transforms-3/9992ca144cfe33d30a297110fb2b7206/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/a23fd3f1f915e22425371e26a91311f1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/7924ed8fe3e7ccdafe4f476ecbc58d15/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ayooluwa/.gradle/caches/transforms-3/d557e9dafff3768792f95f0cae550d01/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.core:core:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/95e50abe5a4f23d72b40c16e5bb7c7cf/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/95e50abe5a4f23d72b40c16e5bb7c7cf/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/dcef8321ff8d737e3dbca5b2b79ab724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/dcef8321ff8d737e3dbca5b2b79ab724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/95e50abe5a4f23d72b40c16e5bb7c7cf/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:13:9-51
+	android:dataExtractionRules
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.lovisgod.androidcrypto.MainActivity
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:15:9-29:20
+	android:label
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:19:13-55
+	android:name
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:23:27-74
+meta-data#android.app.lib_name
+ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:26:13-28:36
+	android:value
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:28:17-33
+	android:name
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml:27:17-52
+uses-sdk
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/afc013027f23672ee76101e2512ad959/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/afc013027f23672ee76101e2512ad959/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/8c44a910c58cd7b7efa9af7dccd8b0c6/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/8c44a910c58cd7b7efa9af7dccd8b0c6/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/b581ac9936c86f03acef6f8af32b6872/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/b581ac9936c86f03acef6f8af32b6872/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/648b8bf6f0d4e519314514e2a16bf3be/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/648b8bf6f0d4e519314514e2a16bf3be/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/062c1bb26cfcd7afd9cfa5304ee33838/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/062c1bb26cfcd7afd9cfa5304ee33838/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/6e121b23761d07551dbf0b2acaa899d9/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/6e121b23761d07551dbf0b2acaa899d9/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/2ba512c85bfd70ba3e89c3536caf7971/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/2ba512c85bfd70ba3e89c3536caf7971/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/21894288102c1caf4f84b0defb029617/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/21894288102c1caf4f84b0defb029617/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/50b43acfba4cdc16cc9453514abce6b7/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/50b43acfba4cdc16cc9453514abce6b7/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/d2bcfa6f584ecfd9c0a5a3df385d318f/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/d2bcfa6f584ecfd9c0a5a3df385d318f/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/09f79a58d3aeab705f0548c8c601004d/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/09f79a58d3aeab705f0548c8c601004d/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/7222cc980f935186cfbde08c56d2f971/transformed/ui-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/7222cc980f935186cfbde08c56d2f971/transformed/ui-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/875c618bf040db619248809e954f2fb8/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/875c618bf040db619248809e954f2fb8/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/6aa533b4cc69c49d03e8ff75c4447ddb/transformed/ui-text-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/6aa533b4cc69c49d03e8ff75c4447ddb/transformed/ui-text-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/35f7564bef5f4a69a98f1a9e3751ef5a/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/35f7564bef5f4a69a98f1a9e3751ef5a/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/5a258492fac86e8eb875a0f83413e00e/transformed/ui-graphics-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/5a258492fac86e8eb875a0f83413e00e/transformed/ui-graphics-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/be8547497a45360e00a4f2b68249d764/transformed/ui-unit-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/be8547497a45360e00a4f2b68249d764/transformed/ui-unit-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/df5b73a653be7d440fcccd89677d57c4/transformed/ui-geometry-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/df5b73a653be7d440fcccd89677d57c4/transformed/ui-geometry-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/c7d0cc08d3242720d0a0b6d6d779ad89/transformed/runtime-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/c7d0cc08d3242720d0a0b6d6d779ad89/transformed/runtime-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/6e0a4c7fe06933bb5be291126d474f0c/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/6e0a4c7fe06933bb5be291126d474f0c/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/f708c0f15b291ac9371e7903ef75e7ea/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/f708c0f15b291ac9371e7903ef75e7ea/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/673029a52522eb70198de5382daed27c/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/673029a52522eb70198de5382daed27c/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/b39130743f990efe1987e60dc5fc5b32/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/b39130743f990efe1987e60dc5fc5b32/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/a2bfaaba0d6842503cdc4f4b81fe7d80/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/a2bfaaba0d6842503cdc4f4b81fe7d80/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a3b9807edf8784a238cb6dd4f0ee607c/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a3b9807edf8784a238cb6dd4f0ee607c/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/044e4c11b52be92a3422d40b7bb9a577/transformed/ui-util-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/044e4c11b52be92a3422d40b7bb9a577/transformed/ui-util-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/4955cf2054715dee9837b76eb7b5b8ce/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/4955cf2054715dee9837b76eb7b5b8ce/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/8d7ec13b914c725d44ace283d26760be/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/8d7ec13b914c725d44ace283d26760be/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/06447cc6b5671e74b2d6857099112e45/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/06447cc6b5671e74b2d6857099112e45/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/d9d0659efd545b1d4dc680898c7975cd/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/d9d0659efd545b1d4dc680898c7975cd/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/95e50abe5a4f23d72b40c16e5bb7c7cf/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/ayooluwa/.gradle/caches/transforms-3/95e50abe5a4f23d72b40c16e5bb7c7cf/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/aaa58be79e21db5a99dfc8f59a114f0e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/aaa58be79e21db5a99dfc8f59a114f0e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/dcef8321ff8d737e3dbca5b2b79ab724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/dcef8321ff8d737e3dbca5b2b79ab724/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/ba91acdcac9ab9e824ef351ecb126511/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/ba91acdcac9ab9e824ef351ecb126511/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ayooluwa/.gradle/caches/transforms-3/9992ca144cfe33d30a297110fb2b7206/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ayooluwa/.gradle/caches/transforms-3/9992ca144cfe33d30a297110fb2b7206/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/a23fd3f1f915e22425371e26a91311f1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ayooluwa/.gradle/caches/transforms-3/a23fd3f1f915e22425371e26a91311f1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/7924ed8fe3e7ccdafe4f476ecbc58d15/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ayooluwa/.gradle/caches/transforms-3/7924ed8fe3e7ccdafe4f476ecbc58d15/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ayooluwa/.gradle/caches/transforms-3/d557e9dafff3768792f95f0cae550d01/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ayooluwa/.gradle/caches/transforms-3/d557e9dafff3768792f95f0cae550d01/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ayooluwa/AndroidStudioProjects/AndroidCrypto/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/02dff04d058a572237d3ede2e0e20722/transformed/ui-tooling-1.2.0/AndroidManifest.xml:25:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/bc8563d9dbd6d4db5e5228640079703a/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:25:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayooluwa/.gradle/caches/transforms-3/4015f35e1b0e5d8b429110f1929b9821/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ayooluwa/.gradle/caches/transforms-3/a5ce4934add7dcc7615f9a704b37dcba/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
